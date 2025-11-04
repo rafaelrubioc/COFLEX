@@ -43,7 +43,7 @@ PowerBI-OEE-Coflex/
 
 ## 📷 Preview del Dashboard
 
-![Preview](/preview_dashboard.png)
+![Preview](preview_dashboard.png)
 
 ---
 
