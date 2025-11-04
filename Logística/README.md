@@ -52,7 +52,7 @@ PowerBI-OEE-Coflex/
 
 ## 📷 Preview del Dashboard
 
-![Preview](img/preview_dashboard.png)
+![Preview](COFLEX/Logística/preview_dashboard.png)
 
 ---
 
